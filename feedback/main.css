@@ -1,0 +1,36 @@
+
+html{
+  margin:0px;
+}
+header{
+	text-align:center;
+	padding:10px;
+	font-size:20px;
+	background-color:red;
+	color:white;
+}
+div{
+	padding:30px;
+	font-size:30px;
+}
+button{
+	 color:white;
+	 background-color:blue;
+	 border-radius:5px;
+	 font-size:20px;
+	 padding:5px;
+}
+#product{
+	 margin:10px;
+}
+a{
+	text-decoration:none;
+	padding:5px;
+}
+a:hover{
+	 color:grey;
+}
+img{
+	float:left;
+	padding-right:20px;
+}
